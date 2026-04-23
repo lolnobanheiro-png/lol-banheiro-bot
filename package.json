@@ -1,0 +1,14 @@
+{
+  "name": "lol-banheiro-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "qrcode-terminal": "latest",
+    "pino": "latest"
+  }
+}
+
